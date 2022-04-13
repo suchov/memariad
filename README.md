@@ -5,9 +5,7 @@
       A-->C;
       B-->D;
       C-->D;
-```
 
-```memariad
 	erDiagram
     CUSTOMER }|..|{ DELIVERY-ADDRESS : has
     CUSTOMER ||--o{ ORDER : places
