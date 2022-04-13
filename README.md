@@ -1,4 +1,5 @@
 # memariad
+[github memariad](https://github.com/mermaid-js/mermaid)
 ```mermaid
 	erDiagram
     CUSTOMER }|..|{ DELIVERY-ADDRESS : has
