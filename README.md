@@ -15,7 +15,10 @@
         John-->>Alice: Great!
         John->>Bob: How about you?
         Bob-->>John: Jolly good!
+        ```
+## One more paragraph
 
+```mermaid
     graph TD;
         A-->B;
         A-->C;
